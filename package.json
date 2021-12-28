@@ -1,0 +1,36 @@
+{
+  "name": "samrath",
+  "version": "1.4.0",
+  "description": "Contact details for Samrath Chadha, Teen dev and entrepreneur. ",
+  "main": "index.js",
+  "bin": {
+    "samrath": "index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ssamrxth/samrath.git"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "samrath",
+    "contact"
+  ],
+  "author": {
+    "name": "Samrath Chadha",
+    "email": "samrath.2757@gmail.com",
+    "url": "https://samrath.netlify.app/"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ssamrxth/samrath/issues"
+  },
+  "homepage": "https://github.com/ssamrxth/samrath#readme",
+  "dependencies": {
+    "cli-welcome": "^2.2.2",
+    "colors": "^1.4.0"
+  }
+}
